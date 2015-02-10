@@ -8,6 +8,15 @@ Macleod, VIC 3085.
 PH: 0419-390-496
 
 
+Objective:
+
+Experience:
+
+Projects:
+
+Skills:
+
+Affiliations:
 
 
 
