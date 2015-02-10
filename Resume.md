@@ -12,9 +12,7 @@ Objective:
 
 Experience:
 
-Projects:
-
-Skills:
+Skills & Projects:
  - Java:
  - - Lambda LEDs and presentation at puzzleduck.org/DevAdventures/da08.html
  - - PuZZleDucK/XorElse
