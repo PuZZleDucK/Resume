@@ -31,6 +31,7 @@ Skills & Projects:
  - Linux:
  - - Kernel code cleanup puzzleduck.org/Linux/linux03.html
  - - Bash Logging update to CCHS_Raspian_for_IoT
+ - - Finally my resume is text (<ahem> and HTML, and css, and pdf). The important thing is that the source is avaliable here: 
 
  - Android:
  - - PuZZleDucK/Orbital-Live-Wallpaper
