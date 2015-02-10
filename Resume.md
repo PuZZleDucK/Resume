@@ -17,6 +17,15 @@ Projects:
 Skills:
 
 Affiliations:
+ - LUV member,
+ - Melbourne JVM meetup & Virtual JUG,
+ - Melbourne Coding Dojo (BDD live coding),
+ - - OWASP Melbourne,
+ - - - Melbourne Raspberry Jam,
+ - - - Hack & Tell,
+ - - - Engineering Machine Consciousness,
+ - - - IoT Melbourne
+ - - - and various other less regular meetups and technology events.
 
 
 
