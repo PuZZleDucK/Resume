@@ -8,7 +8,7 @@
 
 
 ## Objective:
-I am currently working as a compliance tester and would like to stear my carear further allong the path to developer. I have a broad skill set in the field of software development but have tended to gravitate toward Java which I whould have to single out as my specialization, if I absolutley had too, but I'd resist to the last. This is because I also have a passion for GNU/Linux, Open source software & hardware, Software licencing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify my interests and passions.
+I am currently working as a compliance tester and would like to stear my carear further allong the path towards developer. I have a broad skill set in the field of software development but have tended to gravitate toward Java which I whould have to single out as my specialization, if I absolutley had too, but I'd resist to the last. This is because I also have a passion for many other fields of software including GNU/Linux, Open source software & hardware, Software licencing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify the relevant interests and passions.
 
 I feel the position of <> would be a good fit for my abilities as <>.
 
@@ -42,33 +42,21 @@ I feel the position of <> would be a good fit for my abilities as <>.
 - Others on [code.google] and [sourceforge.net]
 
 
-## Affiliations:
+## Affiliations & Presentations:
 
-I am the owner and sole mintainer of [puzzleduck.org] where I publish most of my projects.
-
-Creator of obscure software licencing joke video: [youtube.com/watch?v=S5e7PjIB2lo],
-
-Member of Melbourne JVM meetup (Presenter for: Lambda LEDs **ibid Java**),
-
-Member of LUV member (Presenter for: lighning talk),
-
-Member of Melbourne Coding Dojo (BDD live coding),
-
-Participant at BattleHack Melbourne 2015: [twitter.com/braintree_dev/status/561716304819015682],
-
-and any other code challenges that come my way: [code.google.com/p/visualise-melbourne-art-timeline/]
-
-Member of OWASP Melbourne,
-
-Member of Melbourne Raspberry Jam,
-
-Member of Hack & Tell,
-
-Member of Engineering Machine Consciousness,
-
-Member of IoT Melbourne
-
-and various other less regular meetups and technology events, hope to run into you there.
+- I am the owner and sole mintainer of [puzzleduck.org] where I publish most of my projects.
+- Creator of obscure software licencing joke video: [youtube.com/watch?v=S5e7PjIB2lo],
+- Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**),
+- Member of LUV member (**Presenter for: lighning talk**),
+- Member of Melbourne Coding Dojo (BDD **live coding**),
+- Participant at **BattleHack** Melbourne 2015: [twitter.com/braintree_dev/status/561716304819015682],
+- and any other code challenges that come my way: [code.google.com/p/visualise-melbourne-art-timeline/]
+- Member of OWASP Melbourne,
+- Member of Melbourne Raspberry Jam,
+- Member of Hack & Tell,
+- Member of Engineering Machine Consciousness,
+- Member of IoT Melbourne
+- and various other less regular meetups and technology events, hope to run into you there.
 
 
 
