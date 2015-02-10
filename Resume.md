@@ -3,9 +3,10 @@
 
 Benjamin Minerds
 PuZZleDucK@gmail.com
+PH: 0419-390-496
+[PuZZleDucK.org]
 22-24 Ferguson st.
 Macleod, VIC 3085.
-PH: 0419-390-496
 
 
 Objective:
@@ -25,34 +26,33 @@ Experience:
 
 Skills & Projects:
  - Java:
- - - Lambda LEDs and presentation at puzzleduck.org/DevAdventures/da08.html
- - - PuZZleDucK/XorElse
+ - - Lambda LEDs and presentation at [puzzleduck.org/DevAdventures/da08.html]
+ - - Dogfooding my own app for over a year, [PuZZleDucK/XorElse]
  
  - Linux:
- - - Kernel code cleanup puzzleduck.org/Linux/linux03.html
- - - Bash Logging update to CCHS_Raspian_for_IoT
- - - Finally my resume is text (<ahem> and HTML, and css, and pdf). The important thing is that the source is avaliable here: 
+ - - Kernel code cleanup [puzzleduck.org/Linux/linux03.html]
+ - - Bash Logging update to [github.com/alecthegeek/CCHS_Raspian_for_IoT]
+ - - Finally my resume is text (<ahem> and HTML, and css, and pdf <ahem>). The important thing is that the source is avaliable here: [github.com/PuZZleDucK/Resume]
 
  - Android:
- - - PuZZleDucK/Orbital-Live-Wallpaper
- - - Others on code.google
+ - - [PuZZleDucK/Orbital-Live-Wallpaper]
+ - - Others on [code.google] and [sourceforge.net]
 
- - Haskell:
 
 Affiliations:
- - LUV member (and lighning talk),
- - Melbourne JVM meetup (Presenter: Lambda LEDs **ibid**) & Virtual JUG,
- - Melbourne Coding Dojo (BDD live coding),
- - Participant at BattleHack Melbourne 2015: twitter.com/braintree_dev/status/561716304819015682,
- - and any other code challenges that come my way: code.google.com/p/visualise-melbourne-art-timeline/
- - - OWASP Melbourne,
- - - - Melbourne Raspberry Jam,
- - - - Hack & Tell,
- - - - Engineering Machine Consciousness,
- - - - IoT Melbourne
- - - - and various other less regular meetups and technology events.
- - Creator of obscure software licencing joke video: youtube.com/watch?v=S5e7PjIB2lo
- - Owner and mintainer of puzzleduck.org.
+ - I am the owner and sole mintainer of [puzzleduck.org] where I publish most of my projects.
+ - Creator of obscure software licencing joke video: [youtube.com/watch?v=S5e7PjIB2lo],
+ - Member of Melbourne JVM meetup (Presenter for: Lambda LEDs **ibid Java**),
+ - Member of LUV member (Presenter for: lighning talk),
+ - Member of Melbourne Coding Dojo (BDD live coding),
+ - Participant at BattleHack Melbourne 2015: [twitter.com/braintree_dev/status/561716304819015682],
+ - and any other code challenges that come my way: [code.google.com/p/visualise-melbourne-art-timeline/]
+ - - Member of OWASP Melbourne,
+ - - Member of Melbourne Raspberry Jam,
+ - - - Member of Hack & Tell,
+ - - - Member of Engineering Machine Consciousness,
+ - - - Member of IoT Melbourne
+ - - - and various other less regular meetups and technology events, hope to run into you there.
 
 
 
