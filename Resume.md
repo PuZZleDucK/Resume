@@ -13,17 +13,16 @@ I am currently working as a compliance tester and would like to stear my carear 
 I feel the position of <> would be a good fit for my abilities as <>.
 
 
-## Experience:
+## Experience & Education:
 
-### BMM:
-- Verification, compliance, source code comparison.
-- Remote and onsite working.
-- Documentation of process. Ongoing use after over five years.
-- Reference: Khinh Ho (Direct manager for 5 years).
+### BMM Compliance - Systems Consultant / Tester (2007 -> Present):
+My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, ancestry and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploritory testing followed with tailored modifications and automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter.
+During my time at BMM Compliance I have also contribuited process and testing documentation, some of which have now been in use for over five years and are now officially maintained by others. I have also had the great opportunity to work interstate and internationally which was great. I realy enjoy testing and working at BMM, unfortunatly my opportunity to interact with developers or other testers is quite limited.
+My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager and I would happily put him forth as both a personal and a business reference. He can be contacted on 9895 9888 during business hours.
 
-### Latrobe:
-- Bachelor of Arts / Bachelor of Information Technology (Bachelor of Information Science).
-- Major in Logic & IT focus on Programming and Language.
+
+### Latrobe University - Bachelor of Arts (Logic) / Bachelor of Information Technology:
+At Latrobe the "Bachelor of Information Science" was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Inteligence on the Computer Science side of things. I then also took any electives I could allong the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project.
 
 
 ## Skills & Projects:
