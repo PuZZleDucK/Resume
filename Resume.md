@@ -1,10 +1,12 @@
 
-|:---------------------------:|-|-|-|-|-|-----------------------:|
-|                             | | | | | |  PH: 0419-390-496      |
-|      Benjamin Minerds       | | | | | |  PuZZleDucK@gmail.com  |
-|                             | | | | | |                        |
-|       PuZZleDucK.org        | | | | | |  22-24 Ferguson st.    |
-|                             | | | | | |  Macleod, VIC 3085.    |
+ Benjamin Minerds                              PuZZleDucK@gmail.com
+------------------ - - - - - - - - - - - - - ----------------------
+  PuZZleDucK.org                                 22-24 Ferguson st.
+ PH: 0419-390-496                                Macleod, VIC 3085.
+
+
+
+
 
 
 ## Objective:
