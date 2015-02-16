@@ -1,1 +1,1 @@
-pandoc Resume.md -f markdown+pipe_tables -s -o Resume.pdf
+pandoc Resume.md -f markdown+pipe_tables -V geometry:margin=3cm -s -o Resume.pdf
