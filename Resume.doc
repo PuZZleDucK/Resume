@@ -13,85 +13,46 @@
 <thead>
 <tr class="header">
 <th align="center">Benjamin Minerds</th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="left"></th>
-<th align="right">PuZZleDucK@gmail.com</th>
+<th align="center">PuZZleDucK@gmail.com</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td align="center">PuZZleDucK.org</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="right">22-24 Ferguson st.</td>
+<td align="center">22-24 Ferguson st.</td>
 </tr>
 <tr class="even">
 <td align="center">PH: 0419-390-496</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="right">Macleod, VIC 3085.</td>
+<td align="center">Macleod, VIC 3085.</td>
 </tr>
 </tbody>
 </table>
 <h2 id="objective">Objective:</h2>
-<p>I am currently working as a compliance tester and would like to stear my carear further allong the path towards developer. I have a broad skill set in the field of software development but have tended to gravitate toward Java which I whould have to single out as my specialization, if I absolutley had too, but I'd resist to the last. This is because I also have a passion for many other fields of software including GNU/Linux, Open source software &amp; hardware, Software licencing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify the relevant interests and passions.</p>
+<p>I am currently working as a compliance tester and would like to steer my carer further along the path towards developer. I have a broad skill set in the field of software development but have tended to gravitate toward Java which I would have to single out as my specialisation, if I absolutely had too, but I'd resist to the last. This is because I also have a passion for many other fields of software including GNU/Linux, Libre/Open Source software &amp; hardware, Software Licensing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify the relevant interests and passions.</p>
 <p>I feel the position of &lt;&gt; would be a good fit for my abilities as &lt;&gt;.</p>
 <h2 id="experience-education">Experience &amp; Education:</h2>
 <h3 id="bmm-compliance---systems-consultant-tester-2007---present">BMM Compliance - Systems Consultant / Tester (2007 -&gt; Present):</h3>
-<p>My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, ancestry and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploritory testing followed with tailored modifications and automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter.</p>
-<p>During my time at BMM Compliance I have also contribuited process and testing documentation, some of which have now been in use for over five years and are now officially maintained by others. I have also had the great opportunity to work interstate and internationally which was great. I realy enjoy testing and working at BMM, unfortunatly my opportunity to interact with developers or other testers is quite limited.</p>
-<p>My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager and I would happily put him forth as both a personal and a business reference. He can be contacted on 9895 9888 during business hours.</p>
+<p>My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, ancestry and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploratory testing followed with tailored modifications to semi-automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter.</p>
+<p>During my time at BMM Compliance I have also contributed process and testing documentation, some of which have now been in use for over five years and are officially maintained by other colleges. I have also had the great opportunity to work interstate and internationally which was exciting. I really enjoy testing and working at BMM, unfortunately my opportunity to interact with developers or other testers is quite limited as are the opportunities for technical advancement.</p>
+<p>My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager. I would happily put him forth as both a personal and a business reference and he may be contacted on 9895 9888 during business hours.</p>
 <h3 id="latrobe-university---bachelor-of-arts-logic-bachelor-of-information-technology">Latrobe University - Bachelor of Arts (Logic) / Bachelor of Information Technology:</h3>
-<p>At Latrobe the &quot;Bachelor of Information Science&quot; was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Inteligence on the Computer Science side of things. I then also took any electives I could allong the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project.</p>
+<p>At Latrobe the &quot;Bachelor of Information Science&quot; was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Intelligence on the Computer Science side of things. I then also took any electives I could along the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project in which I took the role of team lead.</p>
 <h2 id="skills-projects">Skills &amp; Projects:</h2>
 <h3 id="java">Java:</h3>
-<p>I have been an enthusiastic Java user since university and regularly read the Java Specialists newsletter by Heins Kabuts. I also attend a JVM usergroup and have given a presentation titled <a href="http://puzzleduck.org/DevAdventures/da08.html">&quot;Lambda LEDs&quot;</a> about running Java 8 on the Raspberry Pi and controlling hardware using the new streams api.</p>
-<p>I also have a collection of Java apps I have written on SourceForge, Google Code and Github. One program in particular stands out as scratching my own itch is <a href="https://github.com/PuZZleDucK/XorElse">XorElse</a> which xors a collection of hash values.</p>
-<p>While I mainly consider myself a Java developer my most flashy and accessable programs are actually Android apps and I have quite a few apps on the <a href="https://play.google.com/store/apps/developer?id=PuZZleDucK+Industries.">Google Play Store</a>. All apps are open source and many more that didn't make the store are on code hosing sites. Probably my favourite would be the <a href="https://github.com/PuZZleDucK/Orbital-Live-Wallpaper">Orbital Live Wallpaper</a>.</p>
+<p>I have been an enthusiastic Java user since university and regularly read the Java Specialists newsletter by Heins Kabuts. I also attend a Java user group and have given a presentation titled <a href="http://puzzleduck.org/DevAdventures/da08.html">&quot;Lambda LEDs&quot;</a> about running Java 8 on the Raspberry Pi and controlling hardware using the new streams api.</p>
+<p>I also have a collection of Java apps I have written on SourceForge, Google Code and Github. One program in particular stands out as scratching my own itch is <a href="https://github.com/PuZZleDucK/XorElse">XorElse</a> which xors a collection of hash values and comes in handy at my current work.</p>
+<p>While I mainly consider myself a Java developer my most flashy and accessible programs are actually Android apps and I have quite a few apps on the <a href="https://play.google.com/store/apps/developer?id=PuZZleDucK+Industries.">Google Play Store</a>. All apps are open source and many more that didn't make the store are on various code hosing sites under the username PuZZleDucK. Probably my favourite would be the <a href="https://github.com/PuZZleDucK/Orbital-Live-Wallpaper">Orbital Live Wallpaper</a>.</p>
 <h3 id="linux">Linux:</h3>
-<p>I have strong interest in Linux and while I still haven't worked out a good tactic for managing the mailing list I have contribuited a few <a href="http://puzzleduck.org/Linux/linux03.html">checkpatch</a> and <a href="http://puzzleduck.org/Linux/linux04.html">broken</a> link fixes.</p>
-<p>I have also contribuited a <a href="http://github.com/alecthegeek/CCHS_Raspian_for_IoT">Bash logging update</a> to the Raspberry Pi setup script for a Hackerspace group I attend.</p>
-<p>At long last my resume is text (<ahem> and HTML, and css, and pdf <ahem>). However the important thing is that it's being treated like code and the source is <a href="https://github.com/PuZZleDucK/Resume">avaliable here</a>.</p>
+<p>I have strong interest in Linux and while I still haven't worked out a good tactic for managing the mailing list I have contributed a few <a href="http://puzzleduck.org/Linux/linux03.html">checkpatch</a> and <a href="http://puzzleduck.org/Linux/linux04.html">broken link</a> fixes.</p>
+<p>I have also contributed a <a href="http://github.com/alecthegeek/CCHS_Raspian_for_IoT">Bash logging update</a> to the Raspberry Pi setup script for a Hackerspace group I attend, and documentation for software that I have <a href="https://github.com/KblCb/fddp">found usefull</a>. I am trying to do more work like this in the future as my confidence grows.</p>
+<p>At long last my resume is text (<ahem> and HTML, and css<ahem>). However the important thing is that it's being treated like code and the source is as always <a href="https://github.com/PuZZleDucK/Resume">avaliable here</a>.</p>
 <h2 id="affiliations-presentations">Affiliations &amp; Presentations:</h2>
 <ul>
-<li>I am the owner and sole mintainer of [puzzleduck.org] where I publish most of my projects.</li>
+<li>I am the owner and sole maintainer of [puzzleduck.org] where I publish many of my projects.</li>
 <li>Creator of obscure <a href="http://youtube.com/watch?v=S5e7PjIB2lo">software licencing joke video</a>,</li>
 <li>Member of Melbourne JVM meetup (<strong>Presenter for: Lambda LEDs</strong>),</li>
-<li>Member of LUV member (<strong>Presenter for: lighning talk</strong>),</li>
-<li>Member of Melbourne Coding Dojo (BDD <strong>live coding</strong>),</li>
+<li>Member of LUV member (<strong>Presenter for: lighning talk on xoscope</strong>),</li>
+<li>Member of Melbourne Coding Dojo (<strong>BDD live coding</strong>),</li>
 <li>Participant at <a href="http://twitter.com/braintree_dev/status/561716304819015682"><strong>BattleHack</strong> Melbourne 2015</a>,</li>
 <li>and any other <a href="http://code.google.com/p/visualise-melbourne-art-timeline/">code challenges</a> that come my way,</li>
 <li>Member of OWASP Melbourne,</li>
