@@ -49,7 +49,7 @@ At long last my resume is text (<ahem> and HTML, and css<ahem>). However the imp
 ## Affiliations & Presentations:
 
 - I am the owner and sole maintainer of [puzzleduck.org] where I publish many of my projects.
-- Creator of obscure [software licencing joke video](http://youtube.com/watch?v=S5e7PjIB2lo),
+- Creator of obscure [software licencing joke video](http://youtube.com/watch?v=S5e7PjIB2lo) and I have just begun [live coding](https://www.youtube.com/watch?v=VnH3lirZMmY) exercises,
 - Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**),
 - Member of LUV member (**Presenter for: lighning talk on xoscope**),
 - Member of Melbourne Coding Dojo (**BDD live coding**),
