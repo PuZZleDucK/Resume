@@ -53,6 +53,7 @@ At long last my resume is text (<ahem> and HTML, and css<ahem>). However the imp
 - Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**),
 - Member of LUV member (**Presenter for: lighning talk on xoscope**),
 - Member of Melbourne Coding Dojo (**BDD live coding**),
+- Secretary and long term member of Free Software Melbourne.
 - Participant at [**BattleHack** Melbourne 2015](http://twitter.com/braintree_dev/status/561716304819015682),
 - and any other [code challenges](http://code.google.com/p/visualise-melbourne-art-timeline/) that come my way,
 - Member of OWASP Melbourne,
