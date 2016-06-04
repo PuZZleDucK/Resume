@@ -7,7 +7,7 @@
 
 ## Objective:
 <p class="small">
-I am currently working as a compliance tester and would like to steer my carer further along the path towards developer. I have a broad skill set in the field of software development but have tended to gravitate toward Java which I would have to single out as my specialization, if I absolutely had too, but I'd resist to the last. This is because I also have a passion for many other fields of software including GNU/Linux, Libre/Open Source software & hardware, Software Licensing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify the relevant interests and passions.
+I am currently working as a compliance tester and have been experimenting in code and automation to steer my carer further along the path to developer. I have a broad skill set in the field of software development and have experience in many languages from my old favorite Java to more modern languages like Haskell and Ruby. I also have a passion for many other fields of software including GNU/Linux, Libre/Open Source software & hardware, Software Licensing, Development/Testing methods and languages. I remain brief on details here as the many projects listed below will help clarify the relevant interests and passions.
 </p>
 
 I feel the position of <> would be a good fit for my abilities as <>.
@@ -19,7 +19,7 @@ I feel the position of <> would be a good fit for my abilities as <>.
 
 My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, pedigree and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploratory testing followed with tailored modifications to semi-automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter.
 
-During my time at BMM Compliance I have also contributed process and testing documentation, some of which have now been in use for over five years and are officially maintained by other colleges. I have also had the great opportunity to work interstate and internationally which was exciting. I really enjoy testing and working at BMM, unfortunately my opportunity to interact with developers or other testers is quite limited as are the opportunities for technical advancement.
+During my time at BMM Compliance I have also contributed process and testing documentation, some of which have now been in use for over five years and are now officially maintained by other colleges. I have also had the great opportunity to work interstate and internationally which was exciting. I really enjoy testing and working at BMM, unfortunately my opportunity to interact with developers or other testers is quite limited as are the opportunities for technical advancement.
 
 My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager. I would happily put him forth as both a personal and a business reference and he may be contacted at BMM on 9895 9888 during business hours.
 
@@ -37,30 +37,29 @@ I have been an enthusiastic Java user since university and regularly read the Ja
 
 I also have a collection of Java apps I have written on SourceForge, Google Code and Github. One program in particular stands out as scratching my own itch is [XorElse](https://github.com/PuZZleDucK/XorElse) which xors a collection of hash values and comes in handy at my current work.
 
-While I mainly consider myself a Java developer my most flashy and accessible programs are actually Android apps and I have quite a few apps on the [Google Play Store](https://play.google.com/store/apps/developer?id=PuZZleDucK+Industries.). All apps are open source and many more that didn't make the store are on various code hosing sites under the username PuZZleDucK. Probably my favourite would be the [Orbital Live Wallpaper](https://github.com/PuZZleDucK/Orbital-Live-Wallpaper).
+While I mainly consider myself a Java developer my most flashy and accessible programs are actually Android apps and I have quite a few apps on the [Google Play Store](https://play.google.com/store/apps/developer?id=PuZZleDucK+Industries.). All apps are open source and many more that didn't make the store are on various code hosing sites under the username PuZZleDucK. Probably my favorite would be the [Orbital Live Wallpaper](https://github.com/PuZZleDucK/Orbital-Live-Wallpaper).
 
 ### Linux:
 
-I have  strong interest in Linux and while I still haven't worked out a good tactic for managing the mailing list I have contributed a few [checkpatch](http://puzzleduck.org/Linux/linux03.html) and [broken link](http://puzzleduck.org/Linux/linux04.html) fixes. I also participate in the Edupedia Challenge although at a snails pace.
+I have  strong interest in Linux and while I still haven't worked out a good tactic for managing the mailing list I have contributed a few [checkpatch](http://puzzleduck.org/Linux/linux03.html) and [broken link](http://puzzleduck.org/Linux/linux04.html) fixes, and have also participated in the Edupedia Challenge.
 
 I have also contributed a [Bash logging update](http://github.com/alecthegeek/CCHS_Raspian_for_IoT) to the Raspberry Pi setup script for a Hackerspace group I attend, and documentation for software that I have [found useful](https://github.com/KblCb/fddp). I am trying to do more work like this in the future as my confidence grows.
 
-At long last my resume is text (<ahem> and HTML & css via odt<ahem>). However the important thing is that it's being treated like code and the source is as always [available here](https://github.com/PuZZleDucK/Resume).
+At long last my resume is text (and HTML & css). However the important thing is that it's being treated like code and the source is as always [available here](https://github.com/PuZZleDucK/Resume).
 
 ## Affiliations & Presentations:
 
-- I am the owner and sole maintainer of [puzzleduck.org](http://www.puzzleduck.org) where I publish many of my projects.
-- Creator of obscure [software licencing joke video](http://youtube.com/watch?v=S5e7PjIB2lo) and I have also just begun experimenting with [live coding](https://www.youtube.com/watch?v=VnH3lirZMmY) exercises,
+- I am the owner and maintainer of [puzzleduck.org](http://www.puzzleduck.org) where I publish much of my work.
+- President and long term contributor to [Free Software Melbourne](http://freesoftware.org.au/melbourne/).
+- Creator of obscure [software licensing joke video](http://youtube.com/watch?v=S5e7PjIB2lo) and I have also just begun experimenting with [live coding](https://www.youtube.com/watch?v=VnH3lirZMmY) exercises,
 - Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**),
-- Member of LUV member (**Presenter for: lighning talk on xoscope**),
-- Member of Melbourne Coding Dojo (**BDD live coding**),
-- Secretary and long term member of Free Software Melbourne.
+- Member of Linux Users Victoria (**Presenter for: lighning talk on xoscope**),
 - Participant at [**BattleHack** Melbourne 2015](http://twitter.com/braintree_dev/status/561716304819015682),
-- and any other [code challenges](http://code.google.com/p/visualise-melbourne-art-timeline/) that come my way,
-- Member of OWASP Melbourne,
-- Member of Melbourne Raspberry Jam,
-- Member of Hack & Tell,
+- and any other [code challenges](http://code.google.com/p/visualise-melbourne-art-timeline/) or hackathon that come my way,
+- Participant in various testing groups (TEAM, MST and STAG),
+- Participant of OWASP Melbourne CTF events),
+- Member of Melbourne Raspberry Jam and other electronics groups,
 - Member of Engineering Machine Consciousness,
-- Member of IoT Melbourne
+- Member of IoT Melbourne,
 - and various other less regular meetups and technology events, hope to run into you there.
 
