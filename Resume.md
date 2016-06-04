@@ -1,8 +1,8 @@
 
  Benjamin Minerds   PuZZleDucK@gmail.com
 ------------------ ----------------------
-  PuZZleDucK.org    22-24 Ferguson st.
- PH: 0419-390-496   Macleod, VIC 3085.
+  PuZZleDucK.org    22-24 Ferguson st
+ PH: 0419-390-496   Macleod, VIC 3085
 
 
 ## Objective:
@@ -49,17 +49,16 @@ At long last my resume is text (and HTML & css). However the important thing is 
 
 ## Affiliations & Presentations:
 
-- I am the owner and maintainer of [puzzleduck.org](http://www.puzzleduck.org) where I publish much of my work.
-- President and long term contributor to [Free Software Melbourne](http://freesoftware.org.au/melbourne/).
-- Creator of obscure [software licensing joke video](http://youtube.com/watch?v=S5e7PjIB2lo) and I have also just begun experimenting with [live coding](https://www.youtube.com/watch?v=VnH3lirZMmY) exercises,
-- Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**),
-- Member of Linux Users Victoria (**Presenter for: lighning talk on xoscope**),
-- Participant at [**BattleHack** Melbourne 2015](http://twitter.com/braintree_dev/status/561716304819015682),
-- and any other [code challenges](http://code.google.com/p/visualise-melbourne-art-timeline/) or hackathon that come my way,
-- Participant in various testing groups (TEAM, MST and STAG),
-- Participant of OWASP Melbourne CTF events),
-- Member of Melbourne Raspberry Jam and other electronics groups,
-- Member of Engineering Machine Consciousness,
-- Member of IoT Melbourne,
-- and various other less regular meetups and technology events, hope to run into you there.
-
+- I am the owner and maintainer of [puzzleduck.org](http://www.puzzleduck.org) where I publish much of my work
+- President and long term contributor to [Free Software Melbourne](http://freesoftware.org.au/melbourne/)
+- Creator of obscure [software licensing joke video](http://youtube.com/watch?v=S5e7PjIB2lo) and I have also just begun experimenting with [live coding](https://www.youtube.com/watch?v=VnH3lirZMmY) exercises
+- Member of Melbourne JVM meetup (**Presenter for: Lambda LEDs**)
+- Member of Linux Users Victoria (**Presenter for: lighning talk on xoscope**)
+- Participant at [**BattleHack** Melbourne 2015](http://twitter.com/braintree_dev/status/561716304819015682)
+- and any other [code challenges](http://code.google.com/p/visualise-melbourne-art-timeline/) or hackathon that come my way
+- Participant in various testing groups (TEAM, MST and STAG)
+- Participant of OWASP Melbourne CTF events)
+- Member of Melbourne Raspberry Jam and other electronics groups
+- Member of Engineering Machine Consciousness
+- Member of IoT Melbourne
+- and various other less regular meetups and technology events, hope to run into you there
