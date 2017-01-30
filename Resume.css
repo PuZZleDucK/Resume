@@ -5,7 +5,7 @@ body {
 	background: #FFFFCC;
 <!--	background: #332225; -->
 	color: #33FF33;
-	text-align:right;
+	text-align: center;
 }
 
 p.basic {
@@ -16,6 +16,10 @@ p.basic {
 }
 table {
 	width:100%;
+}
+
+ul {
+	text-align: left;
 }
 
 

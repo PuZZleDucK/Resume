@@ -13,30 +13,6 @@ I am currently working on a development fellowship with Code for Australia, and 
 I feel I will be a great fit for _____ as the company matches well with my abilities and temperament. I have a passion for developing better software all the time, and have embraced the ideals of continuous improvement. I enjoy being detailed and thorough when preparing software, documentation or tests and have pride in the quality of my work.  I have experience building software projects using various technologies and methodologies, ranging from HTML5/bootstrap mapping applications built from the ground up in a weekend, through to larger data gathering and analytics systems written in Rails building on the work of others
 
 
-## Experience & Education:
-
-### Code for Australia - Fellow / Developer (2016 -> Present):
-
-As I have mentioned above the Code for Australia fellowship was a rather pivotal project in my life and allowed me to meet some of my Open Data and Developer heroes at Linux Conf 2017 including the developers and maintainers of Planning Alerts that inspired the CfA project
-
-Other notable opportunities included the opportunity to meet some great developers and change makers from across Australia such as developers from PWC, Paper Kite and my personal favourite Mozilla. We also did a lot of presenting “for the fun of it” including lightning fast ignite talks and slide show karaoke
-
-The Rails application included custom web scraper code that populated information regarding state contract agreements that we could then run analytics and graph trends with. It included custom made d3 graphs of contracts over time and departmental breakdowns
-
-### BMM Compliance - Systems Consultant / Tester (2007 -> Present):
-
-My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, pedigree and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploratory testing followed with tailored modifications to semi-automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter
-
-During my time at BMM Compliance I have also contributed process and testing documentation, some of which have now been in use for over five years and are officially maintained by other colleges. I have also had the great opportunity to work interstate and internationally which was exciting. I really enjoy testing and working at BMM, unfortunately my opportunity to interact with developers or other testers is quite limited as are the opportunities for technical advancement
-
-My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager. I would happily put him forth as both a personal and a business reference and he may be contacted at BMM on 9895 9888 during business hours
-
-
-### Latrobe University - Bachelor of Arts (Logic) / Bachelor of Information Technology:
-
-At Latrobe the "Bachelor of Information Science" was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Intelligence on the Computer Science side of things. I then also took any electives I could along the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project in which I took the role of team lead
-
-
 ## Skills & Projects:
 
 ### Rails:
@@ -62,10 +38,35 @@ I have also contributed a [Bash logging update](http://github.com/alecthegeek/CC
 
 At long last my resume is text (<ahem> and HTML & css via odt<ahem>). However the important thing is that it's being treated like code and the source is as always [available here](https://github.com/PuZZleDucK/Resume)
 
+
+## Experience & Education:
+
+### Code for Australia - Fellow / Developer (2016 -> Present):
+
+As I have mentioned above the Code for Australia fellowship was a rather pivotal project in my life and allowed me to meet some of my Open Data and Developer heroes at Linux Conf 2017 including the developers and maintainers of Planning Alerts that inspired the CfA project
+
+Other notable opportunities included the opportunity to meet some great developers and change makers from across Australia such as developers from PWC, Paper Kite and my personal favourite Mozilla. We also did a lot of presenting “for the fun of it” including lightning fast ignite talks and slide show karaoke
+
+The Rails application included custom web scraper code that populated information regarding state contract agreements that we could then run analytics and graph trends with. It included custom made d3 graphs of contracts over time and departmental breakdowns
+
+### BMM Compliance - Systems Consultant / Tester (2007 -> Present):
+
+My primary duties at BMM are as a compliance tester for gaming machine software. In the course of my work I perform activities including source code analysis, pedigree and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploratory testing followed with tailored modifications to semi-automated testing. There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter
+
+During my time at BMM Compliance I have also contributed process and testing documentation, some of which have now been in use for over five years and are officially maintained by other colleges. I have also had the great opportunity to work interstate and internationally which was exciting. I really enjoy testing and working at BMM, unfortunately my opportunity to interact with developers or other testers is quite limited as are the opportunities for technical advancement
+
+My manager over the past 5 or so years has been Khinh Ho. We have developed quite a good relationship over the years even before he became my manager. I would happily put him forth as both a personal and a business reference and he may be contacted at BMM on 9895 9888 during business hours
+
+
+### Latrobe University - Bachelor of Arts (Logic) / Bachelor of Information Technology:
+
+At Latrobe the "Bachelor of Information Science" was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Intelligence on the Computer Science side of things. I then also took any electives I could along the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project in which I took the role of team lead
+
+
 ## Affiliations & Presentations:
 
 - I am the owner and sole maintainer of [puzzleduck.org](http://www.puzzleduck.org) where I publish many of my projects and learn about deployment issues the hard way
-- Linux Conf (Presenter for: Planning Alerts, State Contracts then the world)
+- Linux Conf (Presenter for: [Planning Alerts, State Contracts then the world](https://www.youtube.com/watch?v=qn5qyZksrSc&feature=youtu.be))
 - President of Free Software Melbourne (Presenter for: [JavaScript Frameworks](http://www.sturm.com.au/resources/fsm-2015-07-16.ogg)), 
 - Member of Melbourne JVM meetup (Presenter for: [Lambda LEDs](https://www.youtube.com/watch?v=zthDp1kzQwI))
 - Member of LUV member (Presenter for: lighning talk on xoscope)
