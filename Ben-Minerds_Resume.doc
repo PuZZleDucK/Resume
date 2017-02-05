@@ -10,6 +10,7 @@
 </head>
 <body>
 <p><link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet"></p>
+<!-- <p class="basic">Benjamin Minerds</p> -->
 <table>
 <thead>
 <tr class="header">
@@ -29,7 +30,6 @@
 </tbody>
 </table>
 <h2 id="objective">Objective:</h2>
-<p class="small">
 <p>I am currently working on a development fellowship with <strong>Code for Australia</strong>, and am looking for opportunities to apply and implement my skills in the domain of <strong>software development</strong>. I have a broad skill set in the fields of development, <strong>operations</strong> and <strong>testing</strong>. I have gravitated toward Linux and <strong>Open Source</strong> solutions and communities. I have a <strong>passion</strong> for many other fields of interest including</p>
 <ul>
 <li><strong>development</strong> - Experiance developing data collection and analytics software in government projects</li>
@@ -40,7 +40,6 @@
 <li><strong>Open Hardware</strong> - I build rep-raps, write IoT instructions and attend hackerspaces</li>
 </ul>
 <p>I remain brief on details here as the many projects and activities listed below will help clarify the relevant interests and passions (note: lots of links if you are interested)</p>
-</p>
 <p>I feel that my abilities and temperament will make me an excellent fit for the position of ___ at ___. I like to be as thorough and helpful as possible when preparing software, documentation or tests and understand that this is often contrasted with the responsibilities of delivering working, useful products on time. I have experience building projects using various technologies and methodologies, ranging from HTML5/bootstrap mapping applications built from the ground up in a weekend, through to larger data gathering and analytics systems written in Rails building on the work of a team. I am firmly engaged with developing better software continuously having embraced the ideals of the agile movement</p>
 <h2 id="skills-projects">Skills &amp; Projects:</h2>
 <h3 id="rails">Rails:</h3>

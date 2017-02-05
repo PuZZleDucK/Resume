@@ -11,10 +11,10 @@ body {
 }
 
 p.basic {
-	color: #33FF33;
-	background: #3322FF;
-	line-height: 50%;
-	word-spacing: 10px;
+	color: #FF0000;
+	background: #0F0;
+<!--	line-height: 50%; -->
+<!--	word-spacing: 10px; -->
 }
 table {
 	width:100%;

@@ -1,12 +1,13 @@
 <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 
+<!-- <p class="basic">Benjamin Minerds</p> -->
+
  Benjamin Minerds   PuZZleDucK@gmail.com
 ------------------ ----------------------
   PuZZleDucK.org    47 Sages Rd
  PH: 0419-390-496   Glenroy, VIC 3046
 
 ## Objective:
-<p class="small">
 I am currently working on a development fellowship with **Code for Australia**, and am looking for opportunities to apply and implement my skills in the domain of **software development**.  I have a broad skill set in the fields of development, **operations** and **testing**.  I have gravitated toward Linux and 
 **Open Source** solutions and communities.  I have a **passion** for many other fields of interest including
 
@@ -18,8 +19,6 @@ I am currently working on a development fellowship with **Code for Australia**, 
 - **Open Hardware** - I build rep-raps, write IoT instructions and attend hackerspaces
 
 I remain brief on details here as the many projects and activities listed below will help clarify the relevant interests and passions (note: lots of links if you are interested)
-
-</p>
 
 I feel that my abilities and temperament will make me an excellent fit for the position of ___ at ___.  I like to be as thorough and helpful as possible when preparing software, documentation or tests and understand that this is often contrasted with the responsibilities of delivering working, useful products on time.  I have experience building projects using various technologies and methodologies, ranging from HTML5/bootstrap mapping applications built from the ground up in a weekend, through to larger data gathering and analytics systems written in Rails building on the work of a team.  I am firmly engaged with developing better software continuously having embraced the ideals of the agile movement
 
@@ -46,7 +45,7 @@ I have a respectable collection of Java apps I have written on SourceForge, GitL
 
 While I mainly consider myself a Java developer, my most flashy and accessible programs are predominantly Android apps and I have quite a few apps on the [Google Play Store](https://play.google.com/store/apps/developer?id=PuZZleDucK+Industries.)  All my apps are open source and wherever possible under a strong copyleft licence. Many more are available on various code hosting sites under the username PuZZleDucK.  My most well received would probably be the [Orbital Live Wallpaper](https://github.com/PuZZleDucK/Orbital-Live-Wallpaper)
 
-Much of this work in Java has resulted in me giving a presentation titled ["Lambda LEDs"](http://puzzleduck.org/DevAdventures/da08.html) at the local Java user group. The presentation was about running Java 8 on the Raspberry Pi and controlling hardware using the new streams api and covered hardware, software and a few of the pitfalls of working with the java streams
+Much of this work in Java has resulted in me giving a presentation titled ["Lambda LEDs"](http://puzzleduck.org/DevAdventures/da08.html) at the local Java user group.  The presentation was about running Java 8 on the Raspberry Pi and controlling hardware using the new streams api and covered hardware, software and a few of the pitfalls of working with the java streams
 
 
 ### Linux:
@@ -62,20 +61,20 @@ At long last my resume is text (<ahem> and HTML & css via odt<ahem>).  However t
 
 ### Code for Australia - Fellow / Developer (2016 -> Present):
 
-Notable opportunities of the fellowship included meeting and working with some great developers and change makers from across Australia such as developers from PWC, Paper Kite, Mozilla, and the developers and maintainers of Planning Alerts. We also did many presentations “for the fun of it” including the lightning fast ignite format and frequent product demonstrations for the government departments
+Notable opportunities of the fellowship included meeting and working with some great developers and change makers from across Australia such as developers from PWC, Paper Kite, Mozilla, and the developers and maintainers of Planning Alerts.  We also did many presentations “for the fun of it” including the lightning fast ignite format and frequent product demonstrations for the government departments
 
 We developed a solution that included a custom web scraper that populated information regarding state contract agreements that we could then run analytics and graph trends with.  The application was written within the Rails framework and also included custom d3 graphs of contracts over time and departmental breakdowns.  The application displayed relevant contract and reporting information for departmental staff to monitor the state of construction across Victoria and across government departments
 
 ### BMM Compliance - Systems Consultant / Tester (2007 -> 2016):
 
-My primary duties at BMM were as a compliance tester for gaming machine software. In the course of my work I performed activities including source code analysis, provenance and comparison, verification of builds, and test plan creation. I would then generally progress into regression and exploratory testing followed by tailored modifications to semi-automated testing.  There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter
+My primary duties at BMM were as a compliance tester for gaming machine software.  In the course of my work I performed activities including source code analysis, provenance and comparison, verification of builds, and test plan creation.  I would then generally progress into regression and exploratory testing followed by tailored modifications to semi-automated testing.  There is also quite a bit of regulatory documentation for the projects and I am quite proud of my almost flawless record in the matter
 
 During my time at BMM Compliance I also contributed process and testing documentation, some of which have been in use for over five years, and are officially maintained by other engineers in the business.  I also had the great opportunity to work interstate and internationally which was incredible and I really enjoyed testing and working at BMM, unfortunately my opportunity to interact with developers or other testers was quite limited as were the opportunities for technical advancement
 
 
 ### Latrobe University - Bachelor of Arts (Logic) / Bachelor of Information Technology:
 
-At Latrobe the "Bachelor of Information Science" was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Intelligence on the Computer Science side of things. I then also took any electives I could along the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project in which I took the role of team lead
+At Latrobe the "Bachelor of Information Science" was directed towards Linguistics and Logic on the arts side and Media Processing and Artificial Intelligence on the Computer Science side of things.  I then also took any electives I could along the Programming track covering subjects such as DB, Compilers, Architecture, Networking and a year long Software Project in which I took the role of team lead
 
 
 ## Affiliations & Presentations:
