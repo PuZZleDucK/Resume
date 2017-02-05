@@ -27,7 +27,7 @@ I feel that my abilities and temperament will make me an excellent fit for the p
 
 ### Rails:
 
-My most recent project was a rails application built during my fellowship at Code for Australia.  I experienced and learned so much during the fellowship in regards to cooperation, team dynamics and operational culture.  We worked in an agile framework (scrum) and were given the opportunity to develop our software in a rapidly iterating fashion in two week sprints.  I tracked my own personal progress over sprints and retro'd my side-projects and other commitments along side my professional work.  I also gained much valuable experience presenting our work to audiences every few weeks and resulting in presenting at [Linux Conf Au 2017](https://www.youtube.com/watch?v=qn5qyZksrSc&feature=youtu.be)
+My most recent project was a rails application built during my fellowship at Code for Australia.  I experienced and [learned so much](https://codeforaustralia.github.io/DTF-Blog/) during the fellowship in regards to cooperation, team dynamics and operational culture.  We worked in an agile framework (scrum) and were given the opportunity to develop [our software](https://github.com/CodeforAustralia/dtf-genesis) in a rapidly iterating fashion in two week sprints.  I tracked my own personal progress over sprints and retro'd my side-projects and other commitments along side my professional work.  I also gained much valuable experience presenting [our work](http://dtf-genesis.herokuapp.com/) to audiences every few weeks and resulting in presenting at [Linux Conf Au 2017](https://www.youtube.com/watch?v=qn5qyZksrSc&feature=youtu.be)
 
 ### Web:
 Collaboration. That was initially my primary motivation for learning JavaScript as every single
