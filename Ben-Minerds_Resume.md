@@ -12,7 +12,7 @@ I am currently working on a development fellowship with **Code for Australia**, 
 **Open Source** solutions and communities.  I have a **passion** for many other fields of interest including
 
 - **development** - Experiance developing data collection and analytics software in government projects
-- **testing** - Experiennce testing in the compliance and gaming industry
+- **testing** - Experience testing in the compliance and gaming industry
 - **methodologies** and **tools** - I actively **contribute** to local user groups of various kinds
 - **software licensing** - I help run a Free Software advocacy group
 - **present** - on topics of Open Data and Open Source software
